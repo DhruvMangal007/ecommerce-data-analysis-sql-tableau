@@ -1,5 +1,2 @@
 data/*
 !data/data_downloader.sh
-*.csv
-*.xlsx
-*.zip
